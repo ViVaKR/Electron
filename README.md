@@ -124,5 +124,6 @@ app.on('window-all-closed', () => {
 
 3. Finally Open App Development mode Start-> `$ npm start`
 
+<img src="./Images/../images/hello-world.png" alt="npm start" />  
 ---
 
